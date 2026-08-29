@@ -33,6 +33,8 @@ tags:
   - Insurance
   - Fortune 1000
 url: >-
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/mercury-general/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
