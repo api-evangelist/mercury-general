@@ -1,7 +1,9 @@
 ---
 title: Mercury General Corporation Announces Fourth Quarter ...
 url: https://www.prnewswire.com/news-releases/mercury-general-corporation-announces-fourth-quarter-and-fiscal-2025-results-and-declares-quarterly-dividend-302689756.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mercury General" press release artificial intelligence'
 position: 1
 source: serpapi-google

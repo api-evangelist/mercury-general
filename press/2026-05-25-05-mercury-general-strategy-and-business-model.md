@@ -1,7 +1,9 @@
 ---
 title: Mercury General Strategy and Business Model
 url: https://umbrex.com/resources/company-profiles/mercury-general/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mercury General" press release artificial intelligence'
 position: 5
 source: serpapi-google
